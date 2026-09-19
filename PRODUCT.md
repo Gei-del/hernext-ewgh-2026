@@ -1,4 +1,4 @@
-# ReStart Compass product brief
+# HerNext product brief
 
 ## Problem
 
@@ -15,7 +15,7 @@ hours available each week.
 
 ## Promise
 
-ReStart Compass turns the user’s own story and proof points into a professional
+HerNext turns the user’s own story and proof points into a professional
 positioning statement, a small one-week action plan, and a transparent set of
 synthetic opportunity matches. The user chooses the opportunity and marks her
 own progress.
