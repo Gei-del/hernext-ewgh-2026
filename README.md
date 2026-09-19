@@ -1,8 +1,8 @@
-# ReStart Compass
+# HerNext
 
 **Your path still counts.**
 
-ReStart Compass is a focused planning tool for women returning to work, changing
+HerNext is a focused planning tool for women returning to work, changing
 careers, or pursuing a first formal role. It turns lived experience and practical
 proof into a professional positioning statement, a realistic one-week plan, and
 an explainable opportunity choice.
