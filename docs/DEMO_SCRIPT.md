@@ -19,10 +19,10 @@ behind a nonlinear path.”
 
 **Voice:**
 
-“ReStart Compass helps a woman turn the life she has into one credible
+“HerNext helps a woman turn the life she has into one credible
 professional story and one realistic next step.”
 
-**Screen:** Scroll to the ReStart brief and select **Load demo story**.
+**Screen:** Scroll to the HerNext brief and select **Load demo story**.
 
 ## 0:35–1:02 — Inputs grounded in real life
 
@@ -41,7 +41,7 @@ proof points, not an apology for a gap.”
 “In one action, the product creates an explainable plan. It preserves her words,
 estimates effort, and produces tangible deliverables that fit her availability.”
 
-**Screen:** Select **Build my ReStart plan** and show the positioning statement.
+**Screen:** Select **Build my HerNext plan** and show the positioning statement.
 
 ## 1:27–1:52 — Functional workflow
 
@@ -77,7 +77,7 @@ English copy, review, and testing.”
 
 **Voice:**
 
-“ReStart Compass does not decide whether a woman belongs. It helps her make the
+“HerNext does not decide whether a woman belongs. It helps her make the
 evidence visible and move forward.”
 
 **Screen:** Return to the completed route and product name.
