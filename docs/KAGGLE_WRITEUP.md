@@ -1,4 +1,4 @@
-# ReStart Compass
+# HerNext
 
 ## Subtitle
 
@@ -6,7 +6,7 @@ Turn a nonlinear path into one credible story and one realistic next step.
 
 ## Project description
 
-ReStart Compass is a focused planning tool for women returning to work,
+HerNext is a focused planning tool for women returning to work,
 changing careers, or pursuing a first formal role after a nonlinear path.
 
 Career platforms usually ask for continuous employment, formal titles, and a
@@ -15,7 +15,7 @@ projects, caregiving, community work, independent study, or managing competing
 responsibilities. Generic action plans can create another barrier by assuming
 that every candidate has unlimited uninterrupted time.
 
-ReStart Compass starts somewhere more honest. The user describes her target
+HerNext starts somewhere more honest. The user describes her target
 direction, her path, the time she really has each week, and proof points she can
 support with examples. The product then creates:
 
@@ -50,7 +50,7 @@ nonlinear path into credible evidence and a plan that fits real life.
 ## Core functionality
 
 - Editable demo story for immediate evaluation.
-- Validated ReStart brief with goal, time, story, and proof points.
+- Validated HerNext brief with goal, time, story, and proof points.
 - Deterministic, explainable planning engine.
 - Generated positioning statement with copy action.
 - Three-step weekly route with completion tracking.
