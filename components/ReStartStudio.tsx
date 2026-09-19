@@ -106,7 +106,7 @@ export function ReStartStudio() {
     setPlan(nextPlan);
     setCompleted([]);
     setSelectedMatch(null);
-    setNotice("Your focused ReStart plan is ready.");
+    setNotice("Your focused HerNext plan is ready.");
     window.setTimeout(() => resultRef.current?.scrollIntoView({ behavior: "smooth", block: "start" }), 0);
   };
 
@@ -127,7 +127,7 @@ export function ReStartStudio() {
 
   return <main>
     <header className="topbar">
-      <a className="brand" href="#top" aria-label="ReStart Compass home"><span className="brand__mark"><Icon name="route"/></span><span><strong>ReStart Compass</strong><small>by ByteNova</small></span></a>
+      <a className="brand" href="#top" aria-label="HerNext home"><span className="brand__mark"><Icon name="route"/></span><span><strong>HerNext</strong><small>by ByteNova</small></span></a>
       <div className="topbar__meta"><span>EWGH 2026</span><span className="meta-dot"/>Built during the hackathon</div>
       <button className="text-button" type="button" onClick={loadDemo}>Load demo story</button>
     </header>
@@ -138,7 +138,7 @@ export function ReStartStudio() {
         <h1>Your path did not disappear.<br/><em>It changed shape.</em></h1>
         <p className="hero__intro">Turn projects, caregiving, self-learning, and limited time into one credible professional story and a plan you can actually finish.</p>
       </div>
-      <div className="route-card" aria-label="ReStart process">
+      <div className="route-card" aria-label="HerNext process">
         <div><span>1</span><p><strong>Recognize</strong><small>what already counts</small></p></div>
         <div><span>2</span><p><strong>Reframe</strong><small>experience as evidence</small></p></div>
         <div><span>3</span><p><strong>Re-enter</strong><small>with one focused step</small></p></div>
@@ -147,7 +147,7 @@ export function ReStartStudio() {
 
     <section className="studio" aria-labelledby="studio-title">
       <div className="studio__heading">
-        <div><p className="kicker">Your ReStart brief</p><h2 id="studio-title">Build around the life you have.</h2></div>
+        <div><p className="kicker">Your HerNext brief</p><h2 id="studio-title">Build around the life you have.</h2></div>
         <p>No perfect résumé required. This prototype uses only the information entered here and sends nothing anywhere.</p>
       </div>
 
@@ -180,7 +180,7 @@ export function ReStartStudio() {
           {errors.proofPoints && <p className="field-error" id="proof-error">{errors.proofPoints}</p>}
         </fieldset>
 
-        <div className="form-action"><div><Icon name="spark"/><p><strong>Your plan stays explainable.</strong><small>No hidden score decides whether you belong.</small></p></div><button className="button button--primary" type="submit">Build my ReStart plan <Icon name="arrow"/></button></div>
+        <div className="form-action"><div><Icon name="spark"/><p><strong>Your plan stays explainable.</strong><small>No hidden score decides whether you belong.</small></p></div><button className="button button--primary" type="submit">Build my HerNext plan <Icon name="arrow"/></button></div>
       </form>
     </section>
 
@@ -222,7 +222,7 @@ export function ReStartStudio() {
       </div>
     </section>}
 
-    <footer><div><strong>ReStart Compass</strong><p>A focused hackathon prototype, built with AI-assisted development and human-reviewed decisions.</p></div><a href="#top">Back to the beginning ↑</a></footer>
+    <footer><div><strong>HerNext</strong><p>A focused hackathon prototype, built with AI-assisted development and human-reviewed decisions.</p></div><a href="#top">Back to the beginning ↑</a></footer>
     <div className="notice" role="status" aria-live="polite">{notice}</div>
   </main>;
 }
