@@ -1,4 +1,4 @@
-# ReStart Compass UX contract
+# HerNext UX contract
 
 Visual decisions live in `DESIGN.md`. The single page owns one planning flow and
 uses document scrolling; no nested application shell is required.
@@ -6,7 +6,7 @@ uses document scrolling; no nested application shell is required.
 | Operation | Trigger | Success | Failure and recovery |
 | --- | --- | --- | --- |
 | Load demo | `Load demo story` | Editable sample values replace the form | Not applicable; values are local constants |
-| Build plan | `Build my ReStart plan` | Result opens and receives viewport focus | Inline errors identify missing fields; first invalid field receives focus |
+| Build plan | `Build my HerNext plan` | Result opens and receives viewport focus | Inline errors identify missing fields; first invalid field receives focus |
 | Complete step | Numbered step button | Progress and task state update | Local state is unchanged if activation does not complete |
 | Choose match | Opportunity button | One match becomes selected and status is announced | Existing choice remains |
 | Copy statement | Copy button | Clipboard receives visible statement | Status explains browser block and suggests manual selection |
