@@ -29,11 +29,11 @@ components:
     backgroundColor: "rgba(86, 89, 186, 0.34)"
 ---
 
-# ReStart Compass design direction
+# HerNext design direction
 
 ## Overview
 
-ReStart Compass should feel like a thoughtful route card prepared at a career
+HerNext should feel like a thoughtful route card prepared at a career
 desk: calm, specific, and forward-moving. It serves women returning to work,
 changing fields, or entering a first formal role. The visual register is product,
 not campaign. The memorable element is a connected route whose numbered stops
